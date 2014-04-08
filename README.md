@@ -1,4 +1,0 @@
-GestionColloc
-=============
-
-GestionColloc
